@@ -1,5 +1,6 @@
 {
   "name": "anti-ai-slop-marketplace",
+  "description": "Skill de revisão de texto em PT-BR contra padrões de escrita de IA.",
   "owner": {
     "name": "Pedro Magnago",
     "email": "pedro.magnago@fullbpo.com"
