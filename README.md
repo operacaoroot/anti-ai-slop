@@ -9,7 +9,7 @@ O Claude aciona a skill sozinho quando escreve ou revisa texto em PT-BR que vai 
 Dentro do Claude Code:
 
 ```
-/plugin marketplace add <url-deste-repositorio>
+/plugin marketplace add operacaoroot/anti-ai-slop
 /plugin install anti-ai-slop@anti-ai-slop-marketplace
 ```
 
