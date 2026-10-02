@@ -1,0 +1,15 @@
+{
+  "name": "anti-ai-slop-marketplace",
+  "owner": {
+    "name": "Pedro Magnago",
+    "email": "pedro.magnago@fullbpo.com"
+  },
+  "plugins": [
+    {
+      "name": "anti-ai-slop",
+      "displayName": "Anti-AI Slop (PT-BR)",
+      "source": "./plugins/anti-ai-slop",
+      "description": "Checklist de escrita em português que tira o cheiro de IA de post, e-mail, roteiro, relatório e copy."
+    }
+  ]
+}

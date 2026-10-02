@@ -1,0 +1,11 @@
+{
+  "name": "anti-ai-slop",
+  "description": "Padrões proibidos e checklist final para texto em PT-BR: construções desgastadas, paralelismo em fórmula, títulos de redação escolar, dado sem fonte e jargão de palco.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pedro Magnago",
+    "email": "pedro.magnago@fullbpo.com"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["escrita", "pt-br", "copy", "conteudo", "revisao"]
+}
